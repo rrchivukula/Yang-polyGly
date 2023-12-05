@@ -1,0 +1,5 @@
+# image files
+images
+
+# StarDist model training logs
+models/*/logs

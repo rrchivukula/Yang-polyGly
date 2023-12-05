@@ -1,0 +1,13 @@
+	clone	day	repeats	clone.n
+L18_505_S1.bam	c15x9	D0	15x	c1
+L18_506_S2.bam	c15x10	D0	15x	c2
+L18_507_S3.bam	c15x12	D0	15x	c3
+L18_508_S4.bam	c15x9	D14	15x	c1
+L18_509_S5.bam	c15x10	D14	15x	c2
+L18_510_S6.bam	c15x12	D14	15x	c3
+L18_511_S7.bam	c99x5	D0	99x	c1
+L18_512_S8.bam	c99x8	D0	99x	c2
+L18_513_S9.bam	c99x26	D0	99x	c3
+L18_514_S10.bam	c99x5	D14	99x	c1
+L18_515_S11.bam	c99x8	D14	99x	c2
+L18_516_S12.bam	c99x26	D14	99x	c3

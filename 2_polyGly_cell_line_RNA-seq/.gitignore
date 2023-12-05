@@ -1,0 +1,12 @@
+# gene name and ID mappings
+data/ensembl2ncbi.txt
+
+# rMATS outputs
+output/out_*
+
+# cached exon subsets
+output/exons_*.pkl
+
+# RBPmap inputs and outputs
+output/genomic_ranges_*.txt
+output/RBPmap_predictions

@@ -1,0 +1,6 @@
+**/__pycache__
+
+# gene ontology files
+**/gene2go
+**/genes_ncbi_9606_proteincoding.py
+**/go-basic.obo
